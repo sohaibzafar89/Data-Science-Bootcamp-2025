@@ -1,3 +1,4 @@
+```markdown
 # 🧠 Data Science Bootcamp 2025
 
 This repository contains hands-on projects from the **Data Science Bootcamp 2025**, focused on building core skills in exploratory data analysis (EDA), visualization, and data storytelling.
@@ -30,5 +31,3 @@ To run this project locally:
 ```bash
 git clone https://github.com/your-username/Data-Science-Bootcamp-2025.git
 cd Data-Science-Bootcamp-2025
-
-2. Create a virtual environment (optional but recommended)
