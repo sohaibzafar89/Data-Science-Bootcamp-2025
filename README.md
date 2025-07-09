@@ -30,3 +30,5 @@ To run this project locally:
 ```bash
 git clone https://github.com/your-username/Data-Science-Bootcamp-2025.git
 cd Data-Science-Bootcamp-2025
+
+2. Create a virtual environment (optional but recommended)
