@@ -35,7 +35,7 @@ cd Data-Science-Bootcamp-2025
 ### 2. Create a virtual environment (optional but recommended)
 
 ```bash
-python -m venv venv
+python -m venv .venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
